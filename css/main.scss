@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #140206;
+    color: #fff;
+    display: grid;
+    place-content: center center;
+    
+}
+
+main {
+    width: 450px;
+    height: 750px;
+    background: #141414;
+    border-radius: 20px;
+}
